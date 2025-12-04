@@ -1,0 +1,19 @@
+Summary of Results
+
+Across all countries:
+
+Population size and electricity demand show weak negative correlations with fossil fuel electricity shares.
+This suggests that more populous or high-demand countries tend to have slightly more diversified electricity systems, often incorporating hydro, nuclear, or large-scale renewable capacity. In contrast, smaller or low-demand countries frequently rely heavily on diesel and gas generation, resulting in higher fossil fuel use.
+
+Greenhouse gas emissions exhibit a weak positive correlation with fossil fuel electricity shares.
+Although the relationship is modest, it reflects the intuitive link between fossil-based electricity generation and overall emissions. However, variation across countries is large because GHG emissions also arise from non-electricity sectors such as transportation, industry, and agriculture.
+
+When countries are separated by income level, a more meaningful pattern emerges:
+
+In low and lower-middle income countries (L/LM), GHG emissions do not strongly predict fossil fuel dependence in the electricity sector.
+These economies typically have smaller electricity systems and more diverse emission sources (e.g., agriculture and biomass), which weakens the connection between electricity generation and total emissions.
+
+In upper-middle and high-income countries (UM/H), the relationship becomes substantially clearer.
+Higher GHG emissions correspond to more fossil-intensive electricity systems, reflecting the scale of industrial activity, reliance on polluting fuels like coal and natural gas, and larger electricity sectors in these economies.
+
+Overall, the results indicate that structural factors such as population, demand, and emissions influence electricity mix composition differently across income groups. This highlights the importance of considering development context when analysing global energy transitions.
